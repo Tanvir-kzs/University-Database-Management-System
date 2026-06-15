@@ -41,7 +41,7 @@ This project implements a University Management System using Oracle Database. It
 - 04_PLSQL_Operations.sql
 
 ## ER Diagram
-![ER Diagram](ER_Diagram/ER_Diagram.jpg)
+![ER Diagram](ER_Diagram.jpg)
 
 ## Author
 Tanvir Ahmed
